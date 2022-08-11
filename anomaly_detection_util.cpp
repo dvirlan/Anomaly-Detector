@@ -1,8 +1,6 @@
 #include <cmath>
 #include "anomaly_detection_util.h"
-/*
- * Author: 318324563 - Daniel Meir Karl
- */
+
 /**
  * return the average of the array.
  * @param x is an array of numbers

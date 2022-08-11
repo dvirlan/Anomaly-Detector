@@ -1,6 +1,4 @@
-/*
- * Author: 318324563 - Daniel Meir Karl
- */
+
 #ifndef COMMANDS_H_
 #define COMMANDS_H_
 

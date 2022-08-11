@@ -1,6 +1,4 @@
-/*
- * Author: 318324563 - Daniel Meir Karl
- */
+
 #include "minCircle.h"
 /**
  * finding the minCircle is based on welzl's algorithm

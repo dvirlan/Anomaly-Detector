@@ -1,6 +1,4 @@
-/*
- * Author: 318324563 - Daniel Meir Karl
- */
+
 
 #ifndef SERVER_H_
 #define SERVER_H_

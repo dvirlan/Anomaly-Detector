@@ -1,6 +1,4 @@
-/*
- * Author: 318324563 - Daniel Meir Karl
- */
+
 
 #ifndef ANOMALYDETECTOR_H_
 #define ANOMALYDETECTOR_H_
